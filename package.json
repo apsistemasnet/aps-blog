@@ -1,0 +1,23 @@
+{
+  "name": "aps-blog",
+  "version": "1.0.0",
+  "description": "Um simples blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apsistemasnet/aps-blog.git"
+  },
+  "keywords": [
+    "node.js",
+    "react.js"
+  ],
+  "author": "Manoel Estevam apsistemas.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apsistemasnet/aps-blog/issues"
+  },
+  "homepage": "https://github.com/apsistemasnet/aps-blog#readme"
+}
